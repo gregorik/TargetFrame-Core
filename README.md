@@ -5,6 +5,13 @@
 </div>
  
 <h1>TargetFrame Core</h1>
+
+[Watch a video](https://www.youtube.com/watch?v=6ghqO5RCQz4)
+
+[Read the manual](https://gregorigin.com/TargetFrame/)
+
+
+
 <p><strong>TargetFrame Core</strong> is an automatic, zero-configuration runtime scalability management system for Unreal Engine 5. Stop guessing what settings your players need. TargetFrame Core automatically benchmarks hardware, sets a stable baseline, and dynamically steps down resolution scale and overall quality during gameplay to defend your target frame rate.</p>
 <p>Designed to eliminate &quot;stuttering&quot; reviews on launch day, this plugin handles the dirty work of performance scaling so you can focus on building your game.</p>
 <hr>
