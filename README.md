@@ -37,8 +37,8 @@ Navigate to <strong>Project Settings &gt; Plugins &gt; TargetFrameCore</strong>.
 </ul>
 <hr>
 <h2>💎 Upgrade to TargetFrame Pro</h2>
-<p><strong>TargetFrame Core</strong> provides the essential foundation for automatic scalability. However, for teams pushing Unreal Engine 5 to its absolute limits, we offer <strong>Target Frame Pro</strong> on Fab.</p>
-<p>The Pro version includes advanced, granular controls designed specifically for modern UE5 rendering features:</p>
+<p><strong>TargetFrame Core</strong> provides the essential foundation for automatic scalability. However, for teams pushing Unreal Engine 5 to its absolute limits, we offer <strong>TargetFrame Pro</strong> on Fab.</p>
+<p>The Pro version includes advanced, granular controls designed specifically for modern UE5 rendering features and QA workflows:</p>
 <table>
 <thead>
 <tr>
@@ -72,11 +72,29 @@ Navigate to <strong>Project Settings &gt; Plugins &gt; TargetFrameCore</strong>.
 <td align="center">❌</td>
 <td align="center">✅</td>
 </tr>
+<tr>
+<td align="left"><strong>VRAM Exhaustion Protection</strong></td>
+<td align="center">❌</td>
+<td align="center">✅</td>
+</tr>
+<tr>
+<td align="left"><strong>Vendor-Specific Profiles</strong></td>
+<td align="center">❌</td>
+<td align="center">✅</td>
+</tr>
+<tr>
+<td align="left"><strong>CSV Telemetry Export</strong></td>
+<td align="center">❌</td>
+<td align="center">✅</td>
+</tr>
 </tbody></table>
 <h3>Why upgrade?</h3>
 <ul>
-<li><strong>Dynamic Nanite Budgeting:</strong> Instead of brutally dropping the global scalability level, the Pro version surgically relaxes Nanite&#39;s MaxPixelsPerEdge during heavy scenes, keeping your shadows and post-processing intact while slightly reducing geometric density.</li>
-<li><strong>Hardware Ray Tracing Guards:</strong> Lumen Hardware Ray Tracing is gorgeous but demands massive VRAM. The Pro version automatically intercepts the boot sequence, checks the physical VRAM and GPU capabilities, and gracefully falls back to Software Ray Tracing if the player&#39;s hardware would crash or stutter, preventing negative reviews.</li>
+<li><strong>Dynamic Nanite Budgeting:</strong> Instead of brutally dropping the global scalability level, the Pro version surgically relaxes Nanite&#39;s MaxPixelsPerEdge and time budgets during heavy scenes, keeping your shadows and post-processing intact while slightly reducing distant geometric density.</li>
+<li><strong>Hardware Ray Tracing Guards:</strong> Lumen Hardware Ray Tracing is gorgeous but demands massive VRAM. The Pro version automatically intercepts the boot sequence, checks the physical VRAM and GPU capabilities, and gracefully falls back to Software Ray Tracing if the player&#39;s hardware would crash or stutter.</li>
+<li><strong>VRAM Exhaustion Protection:</strong> Automatically clamps Texture Pool sizes and disables memory-hungry features like Nanite Tessellation on hardware with 8GB of VRAM or less to prevent catastrophic Out of Video Memory crashes.</li>
+<li><strong>Vendor-Specific Profiles:</strong> Detects Intel ARC, AMD, and NVIDIA GPUs, applying specific capability maximums and dynamic resolution preferences to avoid known driver performance cliffs.</li>
+<li><strong>CSV Telemetry Export:</strong> Automatically writes detailed frame-time data, intervention logs, and hardware specs to CSV files during playtests, making it incredibly easy for your QA team to identify performance bottlenecks.</li>
 </ul>
 <p><a href="https://fab.com/sellers/GregOrigin"><strong>👉 Get TargetFrame Pro on Fab</strong></a></p>
 <hr>
