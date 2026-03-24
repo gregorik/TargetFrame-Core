@@ -10,6 +10,8 @@
 
 [Read the manual](https://gregorigin.com/TargetFrame/)
 
+[Discord support](https://discord.gg/nqYQ5mtmHb)
+
 
 
 <p><strong>TargetFrame Core</strong> is an automatic, zero-configuration runtime scalability management system for Unreal Engine 5. Stop guessing what settings your players need. TargetFrame Core automatically benchmarks hardware, sets a stable baseline, and dynamically steps down resolution scale and overall quality during gameplay to defend your target frame rate.</p>
