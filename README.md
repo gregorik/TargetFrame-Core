@@ -21,8 +21,7 @@
 <hr>
 <h2>🚀 Key Features</h2>
 
-<img width="1024" height="572" alt="TargetF1" src="https://github.com/user-attachments/assets/d6cef925-b015-4a3a-b3da-7ee52b9ec4a2" />
-
+![TargetF2](https://github.com/user-attachments/assets/4cc28b45-58ae-49d5-8309-ace474ffea1a)
 
 <h3>🛡️ Runtime Governor</h3>
 <p>Never drop below your target frame rate during a boss fight again. The Runtime Governor constantly monitors the smoothed FPS. If the frame rate drops below your configured threshold for a sustained period, the Governor steps in to automatically lower the ResolutionScale and OverallQuality step-by-step until the target FPS is restored. When the action cools down, it smoothly scales back up to maximize visual fidelity.</p>
@@ -32,6 +31,10 @@
 <p>Hate writing custom save-game logic for graphics settings? The Fire-and-Forget Shipping feature completely abstracts scalability. The plugin automatically locks in the optimal settings after an initial &quot;stabilization period,&quot; giving players a consistently smooth experience out-of-the-box. </p>
 <h3>🔲 Upscaler-Safe UI</h3>
 <p>Upscaling a 1080p render to 4K is great for performance, but it can make your UI text look like a blurry mess. TargetFrame Core automatically separates your UI rendering from your 3D scene rendering. The 3D scene scales dynamically, while your Slate/UMG UI remains locked at crisp, native resolution.</p>
+
+<img width="1024" height="572" alt="TargetF1" src="https://github.com/user-attachments/assets/d6cef925-b015-4a3a-b3da-7ee52b9ec4a2" />
+
+
 <hr>
 <h2>🛠️ Installation &amp; Setup</h2>
 <ol>
