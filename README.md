@@ -114,7 +114,7 @@ Navigate to <strong>Project Settings &gt; Plugins &gt; TargetFrameCore</strong>.
 <li><strong>Vendor-Specific Profiles:</strong> Detects Intel ARC, AMD, and NVIDIA GPUs, applying specific capability maximums and dynamic resolution preferences to avoid known driver performance cliffs.</li>
 <li><strong>CSV Telemetry Export:</strong> Automatically writes detailed frame-time data, intervention logs, and hardware specs to CSV files during playtests, making it incredibly easy for your QA team to identify performance bottlenecks.</li>
 </ul>
-<p><a href="https://fab.com/sellers/GregOrigin"><strong>👉 Get TargetFrame Pro on Fab</strong></a></p>
+<p><a href="https://www.fab.com/listings/2989de9e-4451-4d69-8bc7-acf9cbe2cf4a"><strong>👉 Get TargetFrame Pro on Fab</strong></a></p>
 <hr>
 <h2>📄 License</h2>
 <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
