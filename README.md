@@ -12,12 +12,18 @@
 
 [Discord support](https://discord.gg/nqYQ5mtmHb)
 
+![TargetF0](https://github.com/user-attachments/assets/4bd4282b-8507-4aa6-b98b-12e8c9aeb7c2)
+
 
 
 <p><strong>TargetFrame Core</strong> is an automatic, zero-configuration runtime scalability management system for Unreal Engine 5. Stop guessing what settings your players need. TargetFrame Core automatically benchmarks hardware, sets a stable baseline, and dynamically steps down resolution scale and overall quality during gameplay to defend your target frame rate.</p>
 <p>Designed to eliminate &quot;stuttering&quot; reviews on launch day, this plugin handles the dirty work of performance scaling so you can focus on building your game.</p>
 <hr>
 <h2>🚀 Key Features</h2>
+
+<img width="1024" height="572" alt="TargetF1" src="https://github.com/user-attachments/assets/d6cef925-b015-4a3a-b3da-7ee52b9ec4a2" />
+
+
 <h3>🛡️ Runtime Governor</h3>
 <p>Never drop below your target frame rate during a boss fight again. The Runtime Governor constantly monitors the smoothed FPS. If the frame rate drops below your configured threshold for a sustained period, the Governor steps in to automatically lower the ResolutionScale and OverallQuality step-by-step until the target FPS is restored. When the action cools down, it smoothly scales back up to maximize visual fidelity.</p>
 <h3>⚡ Auto-Benchmarking &amp; Tiering</h3>
