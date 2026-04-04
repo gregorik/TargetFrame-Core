@@ -1,0 +1,23 @@
+{
+  "FileVersion": 3,
+  "Version": 2,
+  "VersionName": "0.1.0",
+  "FriendlyName": "Target Frame Core",
+  "Description": "Automatic runtime scalability management for UE5 projects that need vendor-aware fallbacks, Nanite budgeting, crisp UI under upscaling, and telemetry.",
+  "Category": "Performance",
+  "CreatedBy": "GregOrigin",
+  "CreatedByURL": "https://fab.com/sellers/GregOrigin",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "TargetFrameCore",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
