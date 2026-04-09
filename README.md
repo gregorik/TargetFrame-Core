@@ -12,6 +12,8 @@
 
 [Discord support](https://discord.gg/nqYQ5mtmHb)
 
+*[This repository deals with advanced bypasses of standard Unreal C++ bottlenecks. 🟢 Currently available for B2B consulting and remote contract/Co-Dev integration (CET Timezone). [Contact form.](https://gregorigin.com/contact.html)]*
+
 ![TargetF0](https://github.com/user-attachments/assets/4bd4282b-8507-4aa6-b98b-12e8c9aeb7c2)
 
 
