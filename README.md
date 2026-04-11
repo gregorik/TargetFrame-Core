@@ -8,6 +8,8 @@
 
 [Watch a video](https://www.youtube.com/watch?v=6ghqO5RCQz4)
 
+[Watch editor test runs](https://www.youtube.com/watch?v=cUL2eN_TsHc)
+
 [Read the manual](https://gregorigin.com/TargetFrame/)
 
 [Discord support](https://discord.gg/nqYQ5mtmHb)
