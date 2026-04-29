@@ -6,7 +6,9 @@
  
 <h1>TargetFrame Core</h1>
 
-[Watch a video](https://www.youtube.com/watch?v=6ghqO5RCQz4)
+[Watch a video (0.1)](https://www.youtube.com/watch?v=6ghqO5RCQz4)
+
+[Update video (0.3)](https://www.youtube.com/watch?v=BeoDgp0lFSA)
 
 [Watch editor test runs](https://www.youtube.com/watch?v=cUL2eN_TsHc)
 
